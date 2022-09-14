@@ -2,7 +2,7 @@
 
 [Contents](README.md)
 
-[EN](definitions.md) | [UA](definitions_ua.md) | [RU](definitions_ua.md)
+[EN](definitions.md) | [UA](definitions_ua.md) | [RU](definitions_ru.md)
 
 The most frequently used (and often confused and misused) terms are Data Science (DS), Machine Learning (ML) and 
 Artificial Intelligence (AI). Here is how I define them (you will find a lot of different definition around the net).
