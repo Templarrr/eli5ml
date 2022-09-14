@@ -9,9 +9,11 @@ Artificial Intelligence (AI). Here is how I define them (you will find a lot of 
 
 **Data Science** is a science about the data. Lol. Think of it as an extension of mathematics (and more specifically - 
 statistics). Science does not disappear if you don't have computer, it's still as applicable when done with pen and 
-paper or in your mind. Theoretical foundation for everything else. A lot of scientists belong here.
+paper or in your mind. Theoretical foundation for everything else - how you need to collect data, process them,
+different representation of collected data, different algorithms to look for patterns etc etc. 
+A lot of scientists belong here.
 
-**Machine Learning** is a set of technics implementing Data Science ideas using computers.
+**Machine Learning** is a set of technics implementing and automating Data Science ideas using computers.
 You can be genius but if you need to solve 2 million equations you're not doing it manually.
 This part is where engineers take over.
 
