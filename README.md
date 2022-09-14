@@ -1,3 +1,3 @@
 # Machine learning concepts in ELI5 form
 
-Link placeholder
+[EN](README.md) | [UA](README_ua.md) | [RU](README_ru.md)
