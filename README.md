@@ -2,6 +2,8 @@
 
 [EN](README.md) | [UA](README_ua.md) | [RU](README_ru.md)
 
+WORK IN PROGRESS.
+
 Hi there! No idea why are you reading this, but if anything on this page helps you - I'm glad.
 Making the world a better place consists of many small changes and I hope this will eventually become one.
 
@@ -19,3 +21,11 @@ This page is in equal parts
 
 ELI5 form means "explain like I'm 5". So a lot of things here will be oversimplified, but at the same time should
 be pretty easy to consume for anyone slightly interested.
+
+Planned contents (look how all these slowly become replaced with links when implemented!)
+1. Basic definitions.
+2. Machine Learning project types.
+3. Fantastic data and what to do with it (or how to convert everything to numbers).
+4. ML model types.
+5. Tricks and metrics to measure how good your results are.
+6. Insights and other explainability tools.
