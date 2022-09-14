@@ -23,7 +23,7 @@ ELI5 form means "explain like I'm 5". So a lot of things here will be oversimpli
 be pretty easy to consume for anyone slightly interested.
 
 Planned contents (look how all these slowly become replaced with links when implemented!)
-1. Basic definitions.
+1. [Basic definitions](definitions.md).
 2. Machine Learning project types.
 3. Fantastic data and what to do with it (or how to convert everything to numbers).
 4. ML model types.
