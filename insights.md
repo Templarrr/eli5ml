@@ -11,7 +11,6 @@
 {::options parse_block_html="true" /}
 
 <details>
-<summary>Python code for the plot</summary>
 
 ```python
 import matplotlib.pyplot as plt
