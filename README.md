@@ -28,4 +28,4 @@ Planned contents (look how all these slowly become replaced with links when impl
 3. Fantastic data and what to do with it (or how to convert everything to numbers).
 4. ML model types.
 5. Tricks and metrics to measure how good your results are.
-6. Insights and other explainability tools.
+6. [Insights and other explainability tools](insights.md).
