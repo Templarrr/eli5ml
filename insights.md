@@ -26,6 +26,8 @@ plt.ylabel("Predicted")
 plt.show()
 ```
 
+{::options parse_block_html="true" /}
+
 <details>
 
 ```python
@@ -47,6 +49,8 @@ plt.show()
 ```
 
 </details>
+
+{::options parse_block_html="false" /}
 
 PROS: 
 
