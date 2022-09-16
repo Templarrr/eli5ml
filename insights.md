@@ -29,7 +29,7 @@ plt.show()
 <details>
   <summary>Python code for the chart</summary>
 
-```python
+  ```python
 import matplotlib.pyplot as plt
 import numpy as np
 # Fixed random generator
@@ -45,7 +45,7 @@ plt.title("Predicted vs Actuals")
 plt.xlabel("Actuals")
 plt.ylabel("Predicted")
 plt.show()
-```
+  ```
 
 </details>
 
